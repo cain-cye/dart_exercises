@@ -1,0 +1,8 @@
+TECH STORE ORDER SUMMARY
+Customer Name: Xylos Leandro
+Items Purchased: 3 (Remainder: 1)
+Subtotal Amount: $749.97
+Discounted Total: $674.973
+Bonus Points Earned: 14 points
+Qualifies for Free Shipping? true
+High-Value VIP Order? true
